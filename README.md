@@ -1,3 +1,6 @@
+# Weather App
+## following a tutorial from freecodecamp to get started with some of the web development technologies
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
